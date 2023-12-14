@@ -1,0 +1,4 @@
+text_prompt = """
+    Hello and welcome to the course on picture-in-picture multisource video explained.
+"""
+audio_array = generate_audio(text_prompt, history_prompt="v2/en_speaker_1")
